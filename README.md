@@ -6,4 +6,4 @@ attempt to change master 3
 
 Shota
 Marianne
-Seol
+Seol Cheon
