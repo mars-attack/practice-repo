@@ -1,9 +1,6 @@
 # practice-repo
-
-banch 1
-
-attempt to change master 3
-
-Shota 123456789
+Shota
 Marianne
-Seol Cheon Modified
+Seol Cheon Modifed
+Seol Cheon
+Freya
