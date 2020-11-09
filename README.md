@@ -1,9 +1,6 @@
 # practice-repo
-Shota 123456789
+Shota
 Marianne
-<<<<<<< Updated upstream
-Seol Cheon Modified
-=======
+Seol Cheon Modifed
 Seol Cheon
 Freya
->>>>>>> Stashed changes
